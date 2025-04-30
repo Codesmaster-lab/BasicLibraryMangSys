@@ -72,3 +72,10 @@ Try extending the functionality:
 - Validate inputs (e.g., ISBN must be numeric).
 
 ---
+
+## ✅ Build Notes
+
+- `mvn package`
+- `java -jar target\LibraryApp-1.0-SNAPSHOT.jar`
+
+---
